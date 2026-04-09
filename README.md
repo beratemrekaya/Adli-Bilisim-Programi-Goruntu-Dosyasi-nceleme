@@ -6,7 +6,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/beratemrekaya/Forensic-Analysis-Tool?style=social)](https://github.com/beratemrekaya/Forensic-Analysis-Tool/network/members)
 
 <p align="center">
-  <img src="[assets/images/header_image.pn](https://raw.githubusercontent.com/beratemrekaya/Adli-Bilisim-Programi-Goruntu-Dosyasi-nceleme/refs/heads/main/app.png)" alt="Adli Bilişim Başlık Görseli">
+  <img src="https://raw.githubusercontent.com/beratemrekaya/Adli-Bilisim-Programi-Goruntu-Dosyasi-nceleme/refs/heads/main/app.png" alt="Adli Bilişim Başlık Görseli">
   <br>
   <em>Dijital delillerin derinlemesine analizi için kapsamlı bir çözüm.</em>
 </p>
@@ -102,19 +102,3 @@ forensic_analysis_tool/
 │ └── images/ # Başlık görseli gibi ek görseller
 ├── recovered_files/ # Kurtarılan dosyaların depolandığı dizin
 └── requirements.txt # Python bağımlılıkları listesi
-
-## 📸 Ekran Görüntüleri
-
-<p align="center">
-  <img src="assets/images/screenshot_main_window.png" alt="Ana Pencere Ekran Görüntüsü" width="600"/>
-  <br>
-  <em>Uygulamanın ana arayüzü ve delil yönetim paneli.</em>
-</p>
-
-<p align="center">
-  <img src="assets/images/screenshot_metadata_analysis.png" alt="Meta Veri Analizi Ekran Görüntüsü" width="600"/>
-  <br>
-  <em>Meta Veri Analizi sekmesi ve örnek sonuçlar.</em>
-</p>
-
-
